@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "DT-Postgre_db",
+      "Group": "Servers",
+      "Host": "host.docker.internal",
+      "Port": 32772,
+      "MaintenanceDB": "dt-postgres_db",
+      "Username": "DTpostgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
